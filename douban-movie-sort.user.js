@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         豆瓣电影 正在上映 按评分排序
-// @namespace    https://www.qs5.org/Post/1.html?douban_play_sort
+// @namespace    https://www.qs5.org/Post/671.html?douban_play_sort
 // @version      0.1
 // @description  花钱看电影，当然要看好看的啊~！
 // @author       ImDong
